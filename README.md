@@ -14,7 +14,7 @@ Add me in League!! (NA): Alpha Draven Bot
 
 # Setup 
 This is one-time setup that must be done.
-1. Download the .exe file(or compile it yourself) and locate it anywhere.
+1. Download the PingChecker.exe file(or compile it yourself).
 2. Make the shortcut of the downloaded .exe file.
 3. Right click the shortcut file and click "Properties".
 4. Add(*Do NOT replace it!!*) the desired ping check amount(20~30 is sufficient), region(or IP), and location of "LeagueClient.exe" (with quotation marks) to "Target" section.

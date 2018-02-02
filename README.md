@@ -1,6 +1,6 @@
 # League Ping Checker
 
-This is a simple tool that checks the ping before you log in and play the game. You could launch the game by simply hitting enter.
+This is a simple tool that checks the ping before you log in and play the game. You could launch the game by simply hitting enter. This tool is tested with league,but it's actually a universal tool.
 
 Add me in League!! (NA): Alpha Draven Bot
 

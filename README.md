@@ -2,8 +2,6 @@
 
 This is a simple tool that checks the ping before you log in and play the game. You could launch the game by simply hitting enter. This tool is tested with league,but it's actually a universal tool.
 
-Add me in League!! (NA): Alpha Draven Bot
-
 # Supported regions
 * NA
 * EUW
@@ -30,15 +28,5 @@ or you could add the IP directly.
 1. Double click the shortcut file.
 2. Check ping.
 3. Hit enter to start, and N or n and enter to exit.
-
-# FAQs
-* Do you steal my password?
-    * This program exits before you even log in, so you're safe. Plus, it's a open software.
-* Doesn't work. What do I do?
-    * Please Use "Issue" tab in Github. ~~Or you could debug it for me!~~
-* Can you use multiple threads?
-    * I tried it, but it gave me bad results(repeating results). So I'm not planning to implement it.
-* Your code sucks!
-    * Errmm... I've only spent 30 minutes here! Don't expect too much. 
 
 Good luck & Have fun!
